@@ -1,4 +1,5 @@
-#include <stdio.h>
+#include <stdio.h> 
+
 float soma (float, float);
 float subtracao (float, float);
 float multiplicacao (float, float);
